@@ -1,0 +1,2 @@
+# ejs
+Electronic journal system
